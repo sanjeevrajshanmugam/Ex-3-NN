@@ -1,7 +1,6 @@
-## ENTER YOUR NAME : SANJEEV RAJ
+## ENTER YOUR NAME : SANJEEV RAJ.S
 ## ENTER YOUR REGISTER NO : 212223220096
 ## EX. NO.3
-## DATE: 12.10.2024
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python

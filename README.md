@@ -1,5 +1,5 @@
-## ENTER YOUR NAME : ANUBHARATHI SS
-## ENTER YOUR REGISTER NO : 212223040017
+## ENTER YOUR NAME : SANJEEV RAJ
+## ENTER YOUR REGISTER NO : 212223220096
 ## EX. NO.3
 ## DATE: 12.10.2024
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
